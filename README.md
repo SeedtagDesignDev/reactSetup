@@ -1,7 +1,7 @@
 # Repo para el proyecto de react.
 
-# Push del codigo solo a branch de development
-#Pull request a main
+1 Push del codigo solo a branch de development
+2 Pull request a main para mergear
 
-#Deploys en gh-pages
+3 Deploys en gh-pages
 
